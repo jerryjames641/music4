@@ -2,12 +2,7 @@ body {
   background-color: #2d2d2d;
   color: #ffc266;
   font-family: 'Roboto', sans-serif;
-  font-size: 5vw; /* Or 5vw for viewport-relative scaling */
-   display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
+  font-size: 2rem; /* Or 5vw for viewport-relative scaling */
 }
 
 
@@ -126,4 +121,22 @@ padding-top: 20px;
 .fas{
   color: #ffc266;
   font-size: 20px;
+}
+
+.btn-ctn {
+  display: flex;
+  justify-content: space-between; /* This will evenly space the buttons */
+  align-items: center;
+  gap: 60px; /* Adds spacing between the buttons */
+}
+
+.first-btn {
+  margin-left: 0; /* Reset unnecessary margins */
+}
+
+.btn-ctn > div {
+  padding: 5px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  flex: 1; /* Makes buttons take equal space if needed */
 }
