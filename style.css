@@ -3,6 +3,7 @@ body{
   color: #ffc266;
 align-items: down;
   font-family: 'Roboto', sans-serif;
+  font-size: 200%;
 }
 #myProgress {
   width: 100%;
