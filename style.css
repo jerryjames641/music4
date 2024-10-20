@@ -2,7 +2,7 @@ body {
   background-color: #2d2d2d;
   color: #ffc266;
   font-family: 'Roboto', sans-serif;
-  font-size: 2rem; /* Or 5vw for viewport-relative scaling */
+  font-size: 5vw; /* Or 5vw for viewport-relative scaling */
    display: flex;
       justify-content: center;
       align-items: center;
