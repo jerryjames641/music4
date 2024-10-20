@@ -127,7 +127,7 @@ padding-top: 20px;
   display: flex;
   justify-content: center; /* Align buttons to the center */
   align-items: center;
-  gap: 20px; /* Reduce spacing between buttons */
+  gap: 50px; /* Reduce spacing between buttons */
   width: 100%; /* Ensure it fits within the container */
   padding: 10px; /* Optional padding for spacing */
 }
