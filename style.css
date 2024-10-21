@@ -78,7 +78,7 @@ padding-top: 20px;
   display: flex;
   
   background-color: #464646;
-  margin-top: 3px;
+  margin-top: 5px;
   border-radius: 5px;
   cursor: pointer;
 }
@@ -94,14 +94,14 @@ padding-top: 20px;
  
 }
 .playlist-info-track,.playlist-duration{
-  padding-top: 7px;
-  padding-bottom: 7px;
+  padding-top: 14px;
+  padding-bottom: 14px;
   color: #e9cc95;
-  font-size: 14px;
+  font-size: 20px;
   pointer-events: none;
 }
 .playlist-ctn{
-   padding-bottom: 7px;
+   padding-bottom: 14px;
 }
 .active-track{
   background: #4d4d4d;
